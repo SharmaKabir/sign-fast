@@ -47,7 +47,7 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/draw-and-sign.git
+    git clone https://github.com/SharmaKabir/sign-fast
     ```
 2. Navigate to the project directory:
     ```sh
