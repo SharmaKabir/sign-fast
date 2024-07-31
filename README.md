@@ -1,6 +1,7 @@
 
 # Draw and Sign!
 
+![Draw and Sign Screenshot](https://github.com/SharmaKabir/draw-and-sign/blob/main/screenshot.png)
 Welcome to Draw and Sign, a web-based application designed for easy drawing and signing of documents. This tool provides fast and accessible functionality for signing official documents, drawing, and saving your creations.
 
 ## Table of Contents
